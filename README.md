@@ -2,11 +2,11 @@
 
 Codealong workshop for [Hackathon by the Sea: Girls Edition 2019](https://www.hackathonbythesea.com/girls-edition)
 
-### Codepen Template
+# Codepen Template
 
 https://codepen.io/ipnicholson/pen/OeRZOL
 
-### Instructions
+# Instructions
 
 Credit: [Michael Hinrichs](https://github.com/karismatic-megafauna/p5_scaffold/blob/master/README.md)
 
